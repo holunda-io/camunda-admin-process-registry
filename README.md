@@ -9,6 +9,13 @@ Run administration tasks directly from the camunda 7 cockpit using generated min
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.holunda/camunda-admin-process-registry/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.holunda/camunda-admin-process-registry)
 ![Compatible with: Camunda Platform 7](https://img.shields.io/badge/Compatible%20with-Camunda%20Platform%207-26d07c)
 
+# Relocation
+
+This project is **relocated** to https://github.com/holunda-io/c7 and **will be developed** further there.
+Last release produced from this location was **2025.05.1**
+This repository will be archived.
+
+
 This lib/spring-boot-auto-config allows you to easily and fast generate and deploy single-service-task processes that can be started from the camunda-webapp/tasklist.
 
 Doing so enables you to implement administration/house-keeping jobs as a process, use camundas form/ui and run tasks controlled with the full power of the engine cockpit, including error handling and analysis.
